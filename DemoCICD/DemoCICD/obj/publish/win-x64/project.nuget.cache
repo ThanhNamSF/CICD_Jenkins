@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SMouC3XFcH7LkIGM3V070OGz9n3LVyQ+9fWcSdx4GeU9F7qxt1CEKqOwYs92zC5N06N9oQaJX3D7pgecWcvQZA==",
+  "success": true,
+  "projectFilePath": "D:\\CICD\\Jenkins\\CICD_Jenkins\\DemoCICD\\DemoCICD\\DemoCICD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fstha\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.9\\microsoft.netcore.app.runtime.win-x64.3.1.9.nupkg.sha512",
+    "C:\\Users\\fstha\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.9\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.9.nupkg.sha512",
+    "C:\\Users\\fstha\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.9\\microsoft.aspnetcore.app.runtime.win-x64.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}
